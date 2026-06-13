@@ -1,4 +1,4 @@
-# ola-data-analytics# 🚖 Ola Rides Analytics — Power BI Dashboard
+🚖 Ola Rides Analytics — Power BI Dashboard
 
 An interactive Power BI dashboard analyzing Ola cab ride data for July 2024, covering booking trends, revenue performance, cancellation patterns, vehicle type breakdown, and customer & driver ratings.
 
